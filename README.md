@@ -28,7 +28,7 @@ const createNodeLookup = require('geojson-network-node-lookup');
 
 main();
 
-function main() {
+async function main() {
 
     const geojson_raw = await fs.readFile('./file.geojson');
 
