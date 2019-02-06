@@ -1,0 +1,19 @@
+{
+  "name": "geojson-network-node-lookup",
+  "version": "1.0.0",
+  "description": "Given a GeoJSON LineString network and a Location point object, return a lookup of the closest node to each point.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royhobbstn/geojson-network-node-lookup.git"
+  },
+  "author": "Daniel Trone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royhobbstn/geojson-network-node-lookup/issues"
+  },
+  "homepage": "https://github.com/royhobbstn/geojson-network-node-lookup#readme"
+}
