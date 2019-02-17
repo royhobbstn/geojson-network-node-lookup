@@ -62,5 +62,6 @@ typings/
 
 .idea
 
-*.json
 *.geojson
+lookup.json
+zip_lookup.json

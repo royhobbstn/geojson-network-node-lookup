@@ -1,6 +1,6 @@
 {
   "name": "geojson-network-node-lookup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Given a GeoJSON LineString network and a Location point object, return a lookup of the closest node to each point.",
   "main": "index.js",
   "scripts": {
